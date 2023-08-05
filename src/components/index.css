@@ -1,0 +1,30 @@
+li {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.middle-content-container {
+  display: flex;
+}
+.image {
+  width: 25px;
+  height: 25px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 5px;
+}
+.delete-img {
+  text-align: end;
+  margin-left: auto;
+}
+.domain-url {
+  color: #64748b;
+  margin-left: 10px;
+}
+.domain-name {
+  color: #475569;
+  font-weight: 700;
+}
+button {
+  cursor: pointer;
+}
